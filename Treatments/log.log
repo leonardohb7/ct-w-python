@@ -1,0 +1,6 @@
+2026-04-15 20:27:29,790 - DEBUG - Executing program
+2026-04-15 20:27:29,791 - DEBUG - Processing data...
+2026-04-15 20:27:29,791 - INFO - Server started successfully.
+2026-04-15 20:27:29,791 - WARNING - Invalid configuration detected.
+2026-04-15 20:27:29,791 - ERROR - Failed to connect to the database.
+2026-04-15 20:27:29,791 - CRITICAL - Unexpected system error occurred. Shutting down.
